@@ -1,0 +1,25 @@
+.logo{
+    width: 60px;
+}
+.name{
+    height: 100px;
+}
+.main_section{
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+.nav_link{
+    padding: 0px 10px;
+    border-radius: 50px;
+    color: white;
+}
+.nav_link:hover{
+    color: black;
+    font-weight: 500;
+}
+.btn:hover{
+    color: black;
+    font-weight: 500;
+    border: 2px solid #0ea1a1;
+    background-color: #0ea1a1;
+}
